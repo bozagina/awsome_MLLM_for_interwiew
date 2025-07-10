@@ -1,0 +1,2 @@
+# awsome_MLLM_for_interwiew
+自我备份，关于多模态大模型相关的面试内容
